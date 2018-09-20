@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1F252BA4215393CC002A048D /* PersonalFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F252BA3215393CC002A048D /* PersonalFile.m */; };
 		1FE8B29B21534A0D00D5B5E6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FE8B29A21534A0D00D5B5E6 /* main.m */; };
 		1FE8B2A221534AA700D5B5E6 /* codeSnippets.m in Sources */ = {isa = PBXBuildFile; fileRef = 1FE8B2A121534AA700D5B5E6 /* codeSnippets.m */; };
 /* End PBXBuildFile section */
@@ -25,7 +24,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		1F252BA3215393CC002A048D /* PersonalFile.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PersonalFile.m; sourceTree = "<group>"; };
 		1FE8B29721534A0D00D5B5E6 /* XcodeCodeSnippet */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = XcodeCodeSnippet; sourceTree = BUILT_PRODUCTS_DIR; };
 		1FE8B29A21534A0D00D5B5E6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		1FE8B2A121534AA700D5B5E6 /* codeSnippets.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = codeSnippets.m; sourceTree = "<group>"; };
@@ -63,7 +61,6 @@
 			children = (
 				1FE8B29A21534A0D00D5B5E6 /* main.m */,
 				1FE8B2A121534AA700D5B5E6 /* codeSnippets.m */,
-				1F252BA3215393CC002A048D /* PersonalFile.m */,
 			);
 			path = XcodeCodeSnippet;
 			sourceTree = "<group>";
@@ -126,7 +123,6 @@
 			files = (
 				1FE8B2A221534AA700D5B5E6 /* codeSnippets.m in Sources */,
 				1FE8B29B21534A0D00D5B5E6 /* main.m in Sources */,
-				1F252BA4215393CC002A048D /* PersonalFile.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
